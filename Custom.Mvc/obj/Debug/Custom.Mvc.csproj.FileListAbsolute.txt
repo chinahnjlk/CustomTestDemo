@@ -1,0 +1,6 @@
+D:\Users\jianglk\source\repos\WebApplication1\Custom.Mvc\obj\Debug\Custom.Mvc.csproj.CoreCompileInputs.cache
+D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\obj\Debug\Custom.Mvc.csprojAssemblyReference.cache
+D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\bin\Debug\Custom.Mvc.dll
+D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\bin\Debug\Custom.Mvc.pdb
+D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\obj\Debug\Custom.Mvc.dll
+D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\obj\Debug\Custom.Mvc.pdb
