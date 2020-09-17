@@ -4,9 +4,3 @@ D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\bin\Debug\Custom.Mvc.dl
 D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\bin\Debug\Custom.Mvc.pdb
 D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\obj\Debug\Custom.Mvc.dll
 D:\Users\jianglk\Source\Repos\WebApplication1\Custom.Mvc\obj\Debug\Custom.Mvc.pdb
-C:\Users\jianglk\source\repos\Git\Custom.Mvc\bin\Debug\Custom.Mvc.dll
-C:\Users\jianglk\source\repos\Git\Custom.Mvc\bin\Debug\Custom.Mvc.pdb
-C:\Users\jianglk\source\repos\Git\Custom.Mvc\obj\Debug\Custom.Mvc.csprojAssemblyReference.cache
-C:\Users\jianglk\source\repos\Git\Custom.Mvc\obj\Debug\Custom.Mvc.csproj.CoreCompileInputs.cache
-C:\Users\jianglk\source\repos\Git\Custom.Mvc\obj\Debug\Custom.Mvc.dll
-C:\Users\jianglk\source\repos\Git\Custom.Mvc\obj\Debug\Custom.Mvc.pdb
