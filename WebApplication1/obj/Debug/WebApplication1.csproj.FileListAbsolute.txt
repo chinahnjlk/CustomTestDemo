@@ -1,0 +1,7 @@
+C:\Users\jianglk\source\repos\Git\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\jianglk\source\repos\Git\WebApplication1\bin\WebApplication1.dll
+C:\Users\jianglk\source\repos\Git\WebApplication1\bin\WebApplication1.pdb
+C:\Users\jianglk\source\repos\Git\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\jianglk\source\repos\Git\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jianglk\source\repos\Git\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\jianglk\source\repos\Git\WebApplication1\obj\Debug\WebApplication1.pdb
