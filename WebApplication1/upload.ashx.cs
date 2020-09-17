@@ -17,7 +17,7 @@ namespace WebApplication1
 
 
             context.Response.ContentType = "text/html";
-            //context.Response.Write("Hello World");
+            //context.Response.Write("Hello World");https://www.cnblogs.com/sparemylife/archive/2010/05/29/1746959.html
 
             Script.Alert("1");
         }
